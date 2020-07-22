@@ -1,6 +1,6 @@
 ## Welcome to FlagGuarder's Blog
 
-Here ara some thinking of my learning.
+Here are some thinking of my learning.
 
 
 
